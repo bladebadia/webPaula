@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          SPANISH CORNER NUEVO 
+          SPANISH CORNER ES EL MEJOR
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
