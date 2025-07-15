@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          SPANISH CORNER NUEVO 
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
